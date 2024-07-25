@@ -42,3 +42,4 @@ c:\Users\Delphine\Documents\JeuxVideo\RayLib_C#\1_codeMinimum\obj\Debug\net8.0\r
 c:\Users\Delphine\Documents\JeuxVideo\RayLib_C#\1_codeMinimum\obj\Debug\net8.0\1_codeMinimum.pdb
 C:\Users\Delphine\Documents\JeuxVideo\RayLib_C#\1_codeMinimum\obj\Debug\net8.0\1_codeMinimum.genruntimeconfig.cache
 C:\Users\Delphine\Documents\JeuxVideo\RayLib_C#\1_codeMinimum\obj\Debug\net8.0\ref\1_codeMinimum.dll
+c:\Users\Delphine\Documents\JeuxVideo\RayLib_C#\1_codeMinimum\obj\Debug\net8.0\1_codeMinimum.sourcelink.json
