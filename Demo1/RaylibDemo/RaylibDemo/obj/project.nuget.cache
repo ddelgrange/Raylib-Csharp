@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9oUIUARzrqrpPMO+boPVdIGd0UoMykkaHrqCaTJ29cQBfVO86vNH7ZjluQDDqGSEpVzhz6FS9OzoM8cle7Hcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Delphine\\Documents\\JeuxVideo\\RayLib_C#\\Demo1\\RaylibDemo\\RaylibDemo\\RaylibDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Delphine\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\Delphine\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
